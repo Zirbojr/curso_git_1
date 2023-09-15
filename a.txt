@@ -1,2 +1,3 @@
 Teste
 de alteração do TXT.
+Teste do LOG1
