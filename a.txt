@@ -3,4 +3,6 @@ de alteração do TXT.
 Teste do LOG1
 Testando
 2
-3
+Diff
+de
+Arquivo
